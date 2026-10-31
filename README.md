@@ -2,7 +2,7 @@
 
 This repo contains all the code needed to follow along with our **[YouTube Tutorial](https://youtu.be/iFoE5sDyxpM)**
 
-## Prerequisites
+#### Prerequisites
 
 To follow along with this tutorial, you'll need:
 
